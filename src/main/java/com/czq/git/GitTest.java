@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("1 + 1 = 3");
         System.out.println("1 + 1 = 4");
         System.out.println("1 + 1 =77");
+        System.out.println("push test");
     }
 }
